@@ -1,0 +1,2 @@
+Viewing a demographic raw dataset based on bike purchase. A few variables being looked at is commute, education, and income just to name a few. Performed within Excel was data cleaning by removing duplicates, 
+using Find and Replace, Using 'IF' vlaues and many other functions. Pivot tables were created along with charts to create a dashboard with important demographic facts regarding bike purchases. 
